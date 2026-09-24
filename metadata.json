@@ -1,0 +1,6 @@
+{
+  "name": "ServeX AI - Customer Service & Employee Coaching",
+  "description": "ServeX AI connects 24/7 AI customer support, policy-grounded RAG, human escalation, AI employee training simulations, and executive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
